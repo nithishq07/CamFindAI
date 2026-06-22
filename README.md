@@ -6,7 +6,7 @@ CamFindAI is an enterprise-grade surveillance intelligence platform designed for
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 The platform is designed around a decoupled, event-driven microservices architecture to ensure high throughput and low latency for real-time video analytics.
 
@@ -35,7 +35,7 @@ The platform is designed around a decoupled, event-driven microservices architec
 
 ---
 
-## 🛠 Tech Stack Summary
+##  Tech Stack Summary
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ The platform is designed around a decoupled, event-driven microservices architec
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9+
@@ -100,7 +100,7 @@ The system will automatically initialize the dynamic Camera Worker manager. You 
 
 ---
 
-## 🔒 Authentication & Onboarding
+##  Authentication & Onboarding
 
 The platform utilizes a secure Organization-based tenancy model.
 - **Registration**: Operators can create a new Workspace at `http://localhost:5173/register`. This creates an `Organization` and an `Admin User` in the PostgreSQL database.
@@ -108,7 +108,7 @@ The platform utilizes a secure Organization-based tenancy model.
 
 ---
 
-## 🔮 Future Roadmap & Development
+##  Future Roadmap & Development
 
 For future iterations and team handoffs, consider the following development vectors:
 
