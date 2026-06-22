@@ -121,6 +121,25 @@ For future iterations and team handoffs, consider the following development vect
 
 ##  Screenshots of User Interface
 1. **Login page**:
-  <img width="1470" height="956" alt="Screenshot 2026-06-22 at 9 43 11 PM" src="https://github.com/user-attachments/assets/4c9faba5-b7f4-4191-83c7-8d0054cbceeb" />
+  <img width="1470" height="836" alt="Screenshot 2026-06-22 at 9 47 35 PM" src="https://github.com/user-attachments/assets/009b7fa1-2cff-4119-b114-4352a867bd07" />
+
 2. **Register page**:
-  
+  <img width="1469" height="835" alt="Screenshot 2026-06-22 at 9 46 53 PM" src="https://github.com/user-attachments/assets/3ab86ba5-951c-4a91-bb75-98da613c935d" />
+3. **Dashboard images**:
+  1. **Live View**:
+  <img width="1470" height="835" alt="Screenshot 2026-06-22 at 9 48 40 PM" src="https://github.com/user-attachments/assets/eb4adee4-2671-40e8-8255-a50186de6b33" />
+  2. **Cameras**:
+  <img width="1470" height="835" alt="Screenshot 2026-06-22 at 9 49 37 PM" src="https://github.com/user-attachments/assets/aec858a7-957c-406c-8f57-638f0513d986" />
+  3.**Identities**:
+  <img width="1470" height="835" alt="Screenshot 2026-06-22 at 9 50 12 PM" src="https://github.com/user-attachments/assets/1063bd39-7511-4ed4-90c7-b02c4651ff82" />
+  4.**Timeline**:
+  <img width="1470" height="835" alt="Screenshot 2026-06-22 at 9 50 34 PM" src="https://github.com/user-attachments/assets/37c4cab0-97fb-4d16-953d-8efa9090546c" />
+  5.**Alerts**:
+  <img width="1470" height="834" alt="Screenshot 2026-06-22 at 9 50 53 PM" src="https://github.com/user-attachments/assets/90c4419b-51af-4a4e-8512-3e89a391d951" />
+  6.**Settings**:
+  <img width="1470" height="835" alt="Screenshot 2026-06-22 at 9 51 10 PM" src="https://github.com/user-attachments/assets/9e3da5fc-e559-430d-9ebe-91a2ea2a3a5b" />
+
+
+
+
+
