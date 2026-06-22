@@ -1,3 +1,4 @@
+
 # CamFindAI 
 
 **Intelligent Multi-Camera Person Tracking & Re-Identification Platform**
@@ -117,3 +118,9 @@ For future iterations and team handoffs, consider the following development vect
 3. **WebRTC Integration**: Transition the live video streaming from Base64 WebSockets to WebRTC for sub-100ms latency and drastically reduced bandwidth.
 4. **Vector Database**: As the system scales to thousands of identities, replace the in-memory Cosine Similarity search with a dedicated Vector Database (e.g., Milvus, Qdrant, or pgvector) for lightning-fast Re-ID matching.
 5. **SSO Integration**: Hook up the mock SSO buttons on the Registration page to actual OAuth2 providers (Azure AD, Okta, Google Workspace).
+
+##  Screenshots of User Interface
+1. **Login page**:
+  <img width="1470" height="956" alt="Screenshot 2026-06-22 at 9 43 11 PM" src="https://github.com/user-attachments/assets/4c9faba5-b7f4-4191-83c7-8d0054cbceeb" />
+2. **Register page**:
+  
