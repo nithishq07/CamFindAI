@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+  --font-heading: 'Space Grotesk', sans-serif;
+  
+  --color-bg-base: #050505;
+  --color-bg-surface: #121212;
+  --color-text-primary: #f4f4f5;
+  --color-text-secondary: #94a3b8;
+  --color-text-muted: #64748b;
+  --color-accent-steel: #DC2626;
+  --color-border-subtle: #262626;
+  --color-status-critical: #DC2626;
+  --color-status-success: #16A34A;
+
+  --color-background: var(--color-bg-base);
+  --color-foreground: var(--color-text-primary);
+  --color-border: var(--color-border-subtle);
+}
+
+@layer base {
+  * {
+    @apply border-border-subtle;
+  }
+  body {
+    @apply bg-bg-base text-text-primary;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* Data pulse animation for the SVG lines */
+@keyframes signal-pulse {
+  0% { stroke-dashoffset: 1000; }
+  100% { stroke-dashoffset: 0; }
+}
+.animate-signal-pulse {
+  stroke-dasharray: 20 40;
+  animation: signal-pulse 10s linear infinite;
+}
+
+.glass-panel {
+  @apply bg-background/60 backdrop-blur-md border border-white/10;
+}
