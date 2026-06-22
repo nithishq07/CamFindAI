@@ -144,11 +144,5 @@ The platform uses organization-based multi-tenancy.
 ![Settings](https://github.com/user-attachments/assets/9e3da5fc-e559-430d-9ebe-91a2ea2a3a5b)
 
 ---
-
-## What I'd Build Next
-
-- **`pgvector` / Milvus** — replace in-memory cosine similarity with a vector DB so matching scales to millions of stored identities without degrading
-- **WebRTC** — transition live video from WebSocket binary streams to WebRTC for sub-100ms latency and lower bandwidth
-- **Kubernetes** — containerize camera workers and scale out processing nodes dynamically
 - **Analytics endpoints** — surface heatmaps and historical tracking paths from the existing `trajectory_points` table
 - **SSO** — wire up the OAuth2 buttons on the registration page to Azure AD, Okta, and Google Workspace
