@@ -125,7 +125,9 @@ For future iterations and team handoffs, consider the following development vect
 
 2. **Register page**:
   <img width="1469" height="835" alt="Screenshot 2026-06-22 at 9 46 53 PM" src="https://github.com/user-attachments/assets/3ab86ba5-951c-4a91-bb75-98da613c935d" />
+  
 3. **Dashboard images**:
+
   1. **Live View**:
   <img width="1470" height="835" alt="Screenshot 2026-06-22 at 9 48 40 PM" src="https://github.com/user-attachments/assets/eb4adee4-2671-40e8-8255-a50186de6b33" />
   2. **Cameras**:
